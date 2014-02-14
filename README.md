@@ -1,0 +1,2 @@
+# Image search engine
+This project is following the [Hobbits and histograms](http://www.pyimagesearch.com/2014/01/27/hobbits-and-histograms-a-how-to-guide-to-building-your-first-image-search-engine-in-python/) tutorial. It is being used by me to learn basic image processing in python.
