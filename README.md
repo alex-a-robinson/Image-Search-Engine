@@ -13,6 +13,6 @@ This project is following the [Hobbits and histograms](http://www.pyimagesearch.
 * -i, --index : Path to where the index will be stored
 
 ### main.py
-* -d, --dataset : Path to the directory that contains the images which have been indexed (needed so images can be displayed)
-* -i, --index : Path to the index file
-* -q, --query : Path to the query image
+* `-d, --dataset` : Path to the directory that contains the images which have been indexed (needed so images can be displayed)
+* `-i, --index` : Path to the index file
+* `-q, --query` : Path to the query image
